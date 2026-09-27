@@ -1,0 +1,1 @@
+var e=`Europe/London`,t={apiBaseUrl:`https://api.chphome.co.uk/api`,stripePublishableKey:``,verificationCodeExpirySeconds:600,paymentCountdownSeconds:300,resendCodeCooldownSeconds:60,paymentExpirySeconds:7200,bookingHistoryPageSize:10,calendarMaxMonthsAhead:3,bookingCutoffDays:3,rescheduleCutoffDays:3,supportEmail:`hello@chphome.co.uk`};export{t as n,e as t};

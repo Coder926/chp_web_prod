@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1225)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(0.6568144499178982,0,0,0.6568144499178982,185.05747126436785,100)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="959px" height="1218px" viewBox="0 0 959 1218"><title>Group 55</title><g id="CHP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-55">
+            <path d="M494,768.22239 L726.508969,365 C881.50299,615.264399 959,789.466701 959,887.606905 C959,1014.76521 917.886162,1124.89624 835.658486,1218 L511.700425,1218 L787.665738,740.396599 L726.295436,634.07551 L494,768.22239 Z" id="Triangle" fill="#0077B6"></path>
+            <polygon id="Triangle" fill="#FF8200" points="515.019549 0 656 241.96484 281.826537 889.288405 343.722278 996.559507 575.161142 863.082227 370.029208 1218 193.239694 1218 0 889.527556 191.826459 558.210189 331.092669 566.311949 254.382571 450.164997"></polygon>
+        </g>
+    </g></svg></g></g><defs><clipPath id="SvgjsClipPath1225"><rect width="1000" height="1000" x="0" y="0" rx="150" ry="150"></rect></clipPath></defs></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1226)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(0.6568144499178982,0,0,0.6568144499178982,185.05747126436785,100)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="959px" height="1218px" viewBox="0 0 959 1218"><title>Group 55</title><g id="CHP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-55">
+            <path d="M494,768.22239 L726.508969,365 C881.50299,615.264399 959,789.466701 959,887.606905 C959,1014.76521 917.886162,1124.89624 835.658486,1218 L511.700425,1218 L787.665738,740.396599 L726.295436,634.07551 L494,768.22239 Z" id="Triangle" fill="#0077B6"></path>
+            <polygon id="Triangle" fill="#FF8200" points="515.019549 0 656 241.96484 281.826537 889.288405 343.722278 996.559507 575.161142 863.082227 370.029208 1218 193.239694 1218 0 889.527556 191.826459 558.210189 331.092669 566.311949 254.382571 450.164997"></polygon>
+        </g>
+    </g></svg></g></g><defs><clipPath id="SvgjsClipPath1226"><rect width="1000" height="1000" x="0" y="0" rx="150" ry="150"></rect></clipPath></defs></svg></g></svg>
