@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /bookings
+Disallow: /bookings/detail
 
 Sitemap: https://www.chphome.co.uk/sitemap.xml
